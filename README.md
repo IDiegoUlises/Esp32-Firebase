@@ -58,3 +58,5 @@ void loop()
   delay(3000);
 }
 ```
+
+<img src="https://github.com/IDiegoUlises/Esp32-Firebase/blob/main/Images/Paso1.png" width="800" height="400" />
