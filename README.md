@@ -74,4 +74,33 @@ void loop()
 ### Paso 5: Ir a Realtime Database
 <img src="https://github.com/IDiegoUlises/Esp32-Firebase/blob/main/Images/Paso5.png" width="1000" height="500" />
 
+### Paso 6: Crear una base de datos
+<img src="https://github.com/IDiegoUlises/Esp32-Firebase/blob/main/Images/Paso6.png" width="1000" height="500" />
+
+### Paso 7: Configurar base de datos
+<img src="https://github.com/IDiegoUlises/Esp32-Firebase/blob/main/Images/Paso7.png" width="1000" height="500" />
+
+### Paso 8: Seleccionar reglas de seguridad
+<img src="https://github.com/IDiegoUlises/Esp32-Firebase/blob/main/Images/Paso8.png" width="1000" height="500" />
+
+### Paso 9: Copiar la url del proyecto
+<img src="https://github.com/IDiegoUlises/Esp32-Firebase/blob/main/Images/Paso9.png" width="1000" height="500" />
+
+### Paso 10: Ir a configuracion del proyecto
+<img src="https://github.com/IDiegoUlises/Esp32-Firebase/blob/main/Images/Paso10.png" width="1000" height="500" />
+
+### Paso 11: Ir a cuentas de servicio
+<img src="https://github.com/IDiegoUlises/Esp32-Firebase/blob/main/Images/Paso11.png" width="1000" height="500" />
+
+### Paso 12: Ir a secretos de la base de datos
+<img src="https://github.com/IDiegoUlises/Esp32-Firebase/blob/main/Images/Paso12.png" width="1000" height="500" />
+
+### Paso 13: Copiar Secreto
+<img src="https://github.com/IDiegoUlises/Esp32-Firebase/blob/main/Images/Paso13.png" width="1000" height="500" />
+
+### Paso 14: Descargar la libreria de Firebase
+<img src="https://github.com/IDiegoUlises/Esp32-Firebase/blob/main/Images/Paso14-Descargar-Libreria-de-Firebase.png" />
+
+
+
 
