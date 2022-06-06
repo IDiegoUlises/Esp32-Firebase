@@ -101,6 +101,11 @@ void loop()
   delay(3000);
 }
 ```
+### En el puerto serial muestra los datos de Firebase
+<img src="https://github.com/IDiegoUlises/Esp32-Firebase/blob/main/Images/Paso15-El-Esp32-Leyendo-Los-Datos.png" />
+
+### Base de datos en Firebase muestra los datos enviados
+<img src="https://github.com/IDiegoUlises/Esp32-Firebase/blob/main/Images/Paso16-En-Firebase-web-Muestra-Los-Datos.png" width="1000" height="500" />
 
 
 
