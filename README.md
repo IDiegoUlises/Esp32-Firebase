@@ -46,7 +46,7 @@ void loop()
   Firebase.getString(firebaseData, nodo + "/sensor2");
   Serial.println(firebaseData.stringData());
 
-  //Para escribir datos
+  //Para escribir datos, si existe sensor1 lo sobrescribe y sino existe lo crea
   Firebase.setInt(firebaseData, nodo + "/sensor1", 512);
   Firebase.setString(firebaseData, nodo + "/sensor2", "On");
 
