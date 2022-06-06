@@ -1,4 +1,4 @@
-# Esp32-Firebase
+# Esp32 Firebase
 
 ### Paso 1: Ir a la consola
 <img src="https://github.com/IDiegoUlises/Esp32-Firebase/blob/main/Images/Paso1.png" width="1000" height="500" />
