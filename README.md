@@ -59,4 +59,19 @@ void loop()
 }
 ```
 
-<img src="https://github.com/IDiegoUlises/Esp32-Firebase/blob/main/Images/Paso1.png" width="800" height="400" />
+### Paso 1: Ir a la consola
+<img src="https://github.com/IDiegoUlises/Esp32-Firebase/blob/main/Images/Paso1.png" width="1000" height="500" />
+
+### Paso 2: Agregar proyecto
+<img src="https://github.com/IDiegoUlises/Esp32-Firebase/blob/main/Images/Paso2.png" width="1000" height="500" />
+
+### Paso 3: Crear el proyecto
+<img src="https://github.com/IDiegoUlises/Esp32-Firebase/blob/main/Images/Paso3.png" width="1000" height="500" />
+
+### Paso 4: Deshabilitar google analytics y confirmar para crear proyecto
+<img src="https://github.com/IDiegoUlises/Esp32-Firebase/blob/main/Images/Paso4.png" width="1000" height="500" />
+
+### Paso 5: Ir a Realtime Database
+<img src="https://github.com/IDiegoUlises/Esp32-Firebase/blob/main/Images/Paso5.png" width="1000" height="500" />
+
+
