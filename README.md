@@ -47,18 +47,18 @@
 #include <WiFi.h>
 #include "FirebaseESP32.h"
 
-// Credenciales wifi
-#define WIFI_SSID "Wifi hogar"
-#define WIFI_PASSWORD "panconpalta"
+//Credenciales Wifi
+#define WIFI_SSID "SSID"
+#define WIFI_PASSWORD "Password"
 
-// Credenciales Proyecto Firebase
+//Credenciales del proyecto en Firebase
 #define FIREBASE_HOST "https://esp32-3a5e9-default-rtdb.firebaseio.com/"
 #define FIREBASE_AUTH "ic9zqUP4bM0hsmFQXJPyc0Yy8a2FJTGPGHZlcTOG"
 
-// Firebase Data object
+//Firebase Data object
 FirebaseData firebaseData;
 
-// Si deseamos una ruta especifica
+//Elegir ruta
 String nodo = "/Sensores";
 
 void setup()
@@ -81,11 +81,11 @@ void setup()
 
 void loop()
 {
-  //Para leer datos sensor1
+  //Para leer datos del sensor1
   Firebase.getInt(firebaseData, nodo + "/sensor1");
   Serial.println(firebaseData.intData());
 
-  //Para leer datos sensor2
+  //Para leer datos del sensor2
   Firebase.getString(firebaseData, nodo + "/sensor2");
   Serial.println(firebaseData.stringData());
 
